@@ -1,0 +1,647 @@
+.TECH-PIPERS-SUCESS {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.TECH-PIPERS-SUCESS .hero-section {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .isolation-mode {
+    position: relative;
+    width: 1440px;
+    height: 694px;
+    overflow: hidden;
+    transform: rotate(0.01deg);
+}
+
+.TECH-PIPERS-SUCESS .frame {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+    position: relative;
+    top: -10px;
+    left: -80px;
+}
+
+.TECH-PIPERS-SUCESS .header {
+    position: relative;
+    width: 1600.4px;
+    height: 713.3px;
+    background-color: transparent;
+    transform: rotate(-0.01deg);
+}
+
+.TECH-PIPERS-SUCESS .overlap-group {
+    position: relative;
+    width: 1600px;
+    height: 703px;
+}
+
+.TECH-PIPERS-SUCESS .clip-path-group {
+    position: absolute;
+    width: 1600px;
+    height: 703px;
+    top: 0;
+    left: 0;
+}
+
+.TECH-PIPERS-SUCESS .div {
+    position: absolute;
+    top: 301px;
+    left: 551px;
+    transform: rotate(0.01deg);
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper {
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0;
+}
+
+.TECH-PIPERS-SUCESS .span {
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 56px;
+}
+
+.TECH-PIPERS-SUCESS .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 344px;
+    position: absolute;
+    top: 37px;
+    left: 79px;
+}
+
+.TECH-PIPERS-SUCESS .logo {
+    position: relative;
+    width: 296px;
+    height: 45.51px;
+    transform: rotate(0.01deg);
+}
+
+.TECH-PIPERS-SUCESS .bi-CAVC {
+    position: absolute;
+    width: 296px;
+    height: 46px;
+    top: 0;
+    left: 0;
+    transform: rotate(-0.01deg);
+}
+
+.TECH-PIPERS-SUCESS .navbar {
+    display: inline-flex;
+    align-items: center;
+    gap: 25px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .label {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.TECH-PIPERS-SUCESS .label-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Black", Helvetica;
+    font-weight: 900;
+    color: var(--red);
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.TECH-PIPERS-SUCESS .frame-3 {
+    position: relative;
+    width: 1440px;
+    height: 516px;
+    background-color: #ffffff;
+}
+
+.TECH-PIPERS-SUCESS .frame-4 {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    position: absolute;
+    top: 102px;
+    left: 242px;
+    transform: rotate(0.01deg);
+}
+
+.TECH-PIPERS-SUCESS .div-2 {
+    width: 209px;
+    position: relative;
+    height: 18px;
+}
+
+.TECH-PIPERS-SUCESS .line {
+    position: absolute;
+}
+
+.TECH-PIPERS-SUCESS .rectangle {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 0;
+    left: 0;
+    border-color: var(--dark-red);
+    border-radius: 22px;
+    border: 3px solid;
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--red);
+    font-size: 33px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 31.3px;
+    white-space: nowrap;
+}
+
+.TECH-PIPERS-SUCESS .group {
+    width: 208px;
+    transform: rotate(180deg);
+    position: relative;
+    height: 18px;
+}
+
+.TECH-PIPERS-SUCESS .overlap {
+    position: relative;
+    width: 208px;
+    height: 18px;
+}
+
+.TECH-PIPERS-SUCESS .img {
+    width: 192px;
+    top: 9px;
+    left: 16px;
+    transform: rotate(-180deg);
+}
+
+.TECH-PIPERS-SUCESS .frame-5 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 22px;
+    position: absolute;
+    top: 199px;
+    left: 364px;
+}
+
+.TECH-PIPERS-SUCESS .frame-6 {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .rectangle-2 {
+    position: relative;
+    width: 21px;
+    height: 21px;
+    color: #d81d1b;
+    border-color: var(--red);
+    transform: rotate(0.01deg);
+    border-radius: 22px;
+    border: 3px solid;
+}
+
+.TECH-PIPERS-SUCESS .p {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--dark-red);
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 20.9px;
+    white-space: nowrap;
+    margin: auto;
+}
+
+.TECH-PIPERS-SUCESS .overlap-wrapper {
+    position: relative;
+    width: 100%;
+    height: 1126px;
+    background-color: var(--dark-red);
+    overflow: hidden;
+}
+
+.TECH-PIPERS-SUCESS .overlap-2 {
+    position: relative;
+    width: 1244px;
+    height: 1023px;
+    top: 109px;
+    left: 4px;
+}
+
+.TECH-PIPERS-SUCESS .clip-path-group-2 {
+    position: absolute;
+    width: 431px;
+    height: 712px;
+    top: 311px;
+    left: 0;
+}
+
+.TECH-PIPERS-SUCESS .frame-7 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    position: absolute;
+    top: 0;
+    left: 261px;
+}
+
+.TECH-PIPERS-SUCESS .frame-8 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: 'Montserrat';
+    font-weight: 100;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.TECH-PIPERS-SUCESS .seeing-the-forest {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--red);
+    font-size: 33px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.TECH-PIPERS-SUCESS .sometimes-when {
+    position: relative;
+    width: 983px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-4 {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 100;
+    
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-5 {
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-6 {
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #d81d1b;
+    font-size: 26px;
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-7 {
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.TECH-PIPERS-SUCESS .overlap-group-wrapper {
+    position: relative;
+    width: 1440px;
+    height: 514px;
+    background-color: var(--red);
+    overflow: hidden;
+    transform: rotate(0.01deg);
+}
+
+.TECH-PIPERS-SUCESS .overlap-3 {
+    position: relative;
+    width: 2036px;
+    height: 685px;
+    top: 13px;
+}
+
+.TECH-PIPERS-SUCESS .frame-9 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 124px;
+    position: absolute;
+    top: 32px;
+    left: 311px;
+}
+
+.TECH-PIPERS-SUCESS .frame-10 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 53px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .frame-11 {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 26px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24.7px;
+    white-space: nowrap;
+}
+
+.TECH-PIPERS-SUCESS .div-wrapper {
+    position: relative;
+    width: 128px;
+    height: 14px;
+    transform: rotate(180deg);
+}
+
+.TECH-PIPERS-SUCESS .overlap-group-2 {
+    position: relative;
+    height: 14px;
+}
+
+.TECH-PIPERS-SUCESS .line-2 {
+    width: 115px;
+    top: 7px;
+    left: 13px;
+    position: absolute;
+    height: 1px;
+    transform: rotate(-180deg);
+}
+
+.TECH-PIPERS-SUCESS .rectangle-3 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 0;
+    left: 0;
+    border-radius: 22px;
+    border: 3px solid;
+    border-color: var(--dark-red);
+}
+
+.TECH-PIPERS-SUCESS .frame-12 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .input {
+    width: 432px;
+    padding: 10px 7px;
+    position: relative;
+    background-color: #ffffff;
+    border: none;
+    margin-top: -1px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #b5b5b5;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 11.4px;
+    white-space: nowrap;
+}
+
+.TECH-PIPERS-SUCESS .div-wrapper-2 {
+    display: flex;
+    width: 432px;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 7px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #b5b5b5;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 11.4px;
+    white-space: nowrap;
+}
+
+.TECH-PIPERS-SUCESS .message {
+    display: flex;
+    width: 432px;
+    height: 62px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 4px 7px;
+    position: relative;
+    background-color: #ffffff;
+}
+
+.TECH-PIPERS-SUCESS .name {
+    display: flex;
+    width: 432px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 7px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--dark-red);
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 11.4px;
+    white-space: nowrap;
+}
+
+.TECH-PIPERS-SUCESS .frame-13 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 51px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .frame-14 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 27px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .frame-15 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .header-2 {
+    position: relative;
+    width: 25.01px;
+    height: 33.52px;
+    transform: rotate(-0.01deg);
+}
+
+.TECH-PIPERS-SUCESS .frame-16 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--dark-red);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 19px;
+    white-space: nowrap;
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-12 {
+    position: relative;
+    width: 212px;
+    font-family: "Roboto-Light", Helvetica;
+    font-weight: 300;
+    color: var(--dark-red);
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 14.2px;
+}
+
+.TECH-PIPERS-SUCESS .header-3 {
+    position: relative;
+    width: 28px;
+    height: 19.66px;
+    transform: rotate(-0.01deg);
+}
+
+.TECH-PIPERS-SUCESS .frame-17 {
+    position: absolute;
+    width: 1441px;
+    height: 72px;
+    top: 430px;
+    left: 0;
+    background-color: var(--dark-red);
+}
+
+.TECH-PIPERS-SUCESS .text-wrapper-13 {
+    position: absolute;
+    top: 26px;
+    left: 537px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 15.2px;
+    white-space: nowrap;
+}
+
+.TECH-PIPERS-SUCESS .header-4 {
+    position: absolute;
+    width: 1307px;
+    height: 685px;
+    top: 0;
+    left: 729px;
+    transform: rotate(-0.01deg);
+}

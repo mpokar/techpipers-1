@@ -1,0 +1,214 @@
+.isolation-mode-icon,
+.logo-icon {
+  position: relative;
+  object-fit: contain;
+}
+.isolation-mode-icon {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logo-icon {
+  height: 45.6px;
+  width: 296px;
+  cursor: pointer;
+}
+.label,
+.label1,
+.label2,
+.label3,
+.label4 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 900;
+  white-space: nowrap;
+}
+.label {
+  color: var(--red);
+}
+.label1,
+.label2,
+.label3,
+.label4 {
+  cursor: pointer;
+}
+.nav-group {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.hero-section,
+.main-frame,
+.nav-group {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.main-frame {
+  width: 1313px;
+  margin: 0 !important;
+  position: absolute;
+  top: 37px;
+  left: 79px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.hero-section {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.throughout-history-pipers,
+.what-you-may {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.what-you-may {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.throughout-history-pipers {
+  flex: 1;
+  font-weight: 600;
+}
+.isolation-mode-icon1 {
+  height: 487px;
+  width: 1439px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -435.6px;
+  left: calc(50% - 719.5px);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.historical-frame,
+.info-frame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.historical-frame {
+  width: 1025px;
+  flex-direction: row;
+  align-items: flex-start;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.info-frame {
+  align-self: stretch;
+  background-color: var(--dark-red);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-45xl) var(--padding-xl) 435px var(--padding-2xl);
+  box-sizing: border-box;
+  gap: var(--gap-18xl);
+  text-align: center;
+  font-size: var(--font-size-14xl);
+  color: var(--red);
+  font-family: var(--font-montserrat);
+}
+.unlike-other-companies {
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto);
+}
+.blank-line,
+.unlike-other-companies-in-the,
+.we-start-with {
+  margin: 0;
+}
+.unlike-other-companies-container {
+  width: 949px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.company-info-frame,
+.difference-frame {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.difference-frame {
+  background-color: var(--color-whitesmoke);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-91xl) var(--padding-xl) 111px var(--padding-2xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--dark-red);
+  font-family: var(--font-roboto);
+}
+.company-info-frame {
+  position: relative;
+  max-height: 100%;
+  object-fit: contain;
+}
+.tech-pipers-about-us {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 975px) {
+  .nav-group {
+    display: none;
+  }
+  .main-frame {
+    width: 640px;
+  }
+  .what-you-may {
+    font-size: var(--font-size-7xl);
+  }
+}
+@media screen and (max-width: 700px) {
+  .info-frame {
+    gap: var(--gap-18xl);
+    padding-top: 42px;
+    padding-bottom: 283px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .what-you-may {
+    font-size: var(--font-size-xl);
+  }
+  .throughout-history-pipers {
+    font-size: var(--font-size-lg);
+  }
+  .unlike-other-companies-container {
+    font-size: var(--font-size-base);
+  }
+  .difference-frame {
+    padding-top: var(--padding-52xl);
+    padding-bottom: 72px;
+    box-sizing: border-box;
+  }
+}

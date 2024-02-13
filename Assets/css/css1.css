@@ -1,0 +1,153 @@
+.masthead{
+    height: 100vh;
+    min-height: 500px;
+    background-image: url("177911707.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .masthead-about{
+    height: 0vh;
+    min-height: 500px;
+    background-image: url("about-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }  
+
+  .masthead-whoweare{
+    height: vh;
+    min-height: 500px;
+    background-image: url("who-we-are-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .masthead-success{
+    height: 0vh;
+    min-height: 500px;
+    background-image: url("success-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .masthead-howwework{
+    height: 0vh;
+    min-height: 500px;
+    background-image: url("how-we-work-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .masthead-cs{
+    height: 0vh;
+    min-height: 500px;
+    background-image: url("cs-bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+.logo{
+  height: auto;
+  width: 240px;
+}
+
+  .navbar-custom-color {
+    background-color: #544a4b !important; /* Your desired color */
+  }
+
+.f2-head{
+  color: #ffffff;
+  font-size: 25px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+}
+
+.f3-head{
+  color: #ffffff;
+  font-size: 50px;
+}
+
+.f2{
+  color: #ffffff;
+}
+
+.f3{
+  color: #ffffff;
+}
+
+.f4{
+  font-weight: 500;
+  font-size: 20px;
+  font-family: var(--font-roboto); 
+  text-align: center;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dropdown-menu {
+  background-color: #544a4b; /* New background color */
+}
+
+.custom-dropdown-toggle{
+  background-color: #007bff; /* New button background color */
+  color: #fff;
+}
+.custombtn{
+  color: white;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 14px 38px;
+    position: relative;
+    flex: 0 0 auto;
+    background: linear-gradient(90deg, rgb(206, 28, 26) 0%, rgb(141, 21, 22) 100%);
+    transition: all 0.2s ease;
+    border: none;
+}
+
+  .navbar-custom .navbar-nav .nav-link {
+    color: white !important; /* Ensures text is white */
+  }
+
+  /* Optional: Change the color on hover/focus */
+  .navbar-custom .navbar-nav .nav-link:hover,
+  .navbar-custom .navbar-nav .nav-link:focus {
+    color: #ccc !important; /* Light grey on hover/focus */
+  }
+
+
+  .hover-animation{
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    transform-origin: bottom;
+  }
+  .hover-animation:hover {
+    animation-name: bounce;
+    animation-timing-function: ease;
+    
+  }
+
+  @keyframes bounce {
+    0%   { transform: translateY(0); }
+    50%  { transform: translateY(-30px); }
+    100% { transform: translateY(0); }
+  }
+
+
+
+
+
+
+
+
+
+
+
+  
