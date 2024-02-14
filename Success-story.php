@@ -117,11 +117,11 @@
       </div>
       <div class="frame-6">
           <div class="rectangle-2"></div>
-          <p class="p">A Large and Niche Media Porta</p>
+          <p class="p">A Large and Niche Media Portal</p>
       </div>
       <div class="frame-6">
           <div class="rectangle-2"></div>
-          <p class="p">A Job Board for a niche talent in USA</p>
+          <p class="p">A Nice Tech Job Board for  USA</p>
       </div>
   </div>
 </div>

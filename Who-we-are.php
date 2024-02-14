@@ -231,23 +231,19 @@ League of Canada.
         </div>
         <div class="lorem-ipsum-dolor-container3">
           <p class="lorem-ipsum-dolor6">
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-            diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-            aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-            nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-            aliquip ex ea commodo consequat. Duis autem vel eum iriure
-            dolor in hendrerit in vulputate velit esse molestie consequat,
-            vel illum dolore eu feugiat nulla facilisis at vero eros et
-            accumsan et iusto odio dignissim qui blandit praesent luptatum
-            zzril delenit augue duis dolore te feugait nulla facilisi.
+          Michael completed his Honours Bachelor of Commerce Management Degree at Fanshawe
+          College and is also a part time faculty member in the Fanshawe College Agri-Business
+          Management Program where he teaches Precision Technologies in Agriculture and
+          Relationship Management &amp; Selling Fundamentals over the last 3 years. Michael has been a
+          Project Manager at RHA Ventures since it started, managing the new venture intake and
+          working with the early stage companies.
           </p>
-          <p class="blank-line14">&nbsp;</p>
           <p class="lorem-ipsum-dolor7">
-            Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed
-            diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-            aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-            nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-            aliquip ex ea commodo consequat.
+          Michael is passionate about technology and agriculture as he has a background in the agri
+          industry producing video marketing with many of the top agricultural brands in North
+          America. He has extensive experience completing video and social media projects for many
+          small businesses in the London Ontario area. He enjoys helping early-stage companies to be
+          successful and learning about new technology in the agriculture and small business sectors.
           </p>
         </div>
       </div>

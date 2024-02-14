@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="./Assets/css/global.css" />
     <link rel="stylesheet" href="./Assets/css/index.css" />
     <link rel="stylesheet" href="./Assets/css/how-we-work.css" />
+    <link rel="stylesheet" href="./Assets/css/how-we-work-tes.css" />
     <link rel="stylesheet" href="./Assets/css/global1.css" />
     <link
       rel="stylesheet"
@@ -138,77 +139,69 @@
   </section>
 </div>
 <section class="product-development-frame">
-  <div class="header-frame">
-    <img
-      class="header-frame-child"
-      loading="eager"
-      alt=""
-      src="./Assets/images/frame-1171276007-1@2x.png"
-    />
-  </div>
-  <div class="frame-with-text">
-    <div class="product-development">
-      <div class="chunked-product-dev">
-        <h2 class="product-development1">Product Development</h2>
-      </div>
-      <div class="header-with-time">
-        <div class="we-built-product">
-          We built product from scratch in small chunks. We use an
-          iterative process that enables us to test and provide feedback
-          during the development process. Based on feedback we optimize
-          along the way and ultimately build a product that your customers
-          really want.
-        </div>
-        <div class="frame-with-label">
-          <img
-            class="clip-path-group2"
-            alt=""
-            src="./Assets/images/clip-path-group.svg"
-          />
+    <div class="header-frame"> <img class="header-frame-child" loading="eager" alt="" src="./Assets/images/frame-1171276007-1@2x.png"/>
+    </div>
 
-          <img
-            class="header-icon2"
-            loading="eager"
-            alt=""
-            src="./Assets/images/who-1.png"
-          />
-        </div>
       </div>
+    <div class="fixed-price-model-frame-m">
+        <div class="product-development">
+            <div class="chunked-product-dev">
+            <h2 class="product-development1">Product Development</h2>
+            </div>
+            <div class="header-with-time">
+                <div class="we-built-product">
+                    We built product from scratch in small chunks. We use an
+                    iterative process that enables us to test and provide feedback
+                    during the development process. Based on feedback we optimize
+                    along the way and ultimately build a product that your customers
+                    really want.
+                </div>
+            </div>   
+        </div> 
+        <img class="header-icon3-m" loading="eager" alt="" src="./Assets/images/Who-2.png"/>
     </div>
-    <div class="iterative-incremental-dev">
-      <div class="fixed-price-model-frame">
-        <img
-          class="header-icon3"
-          loading="eager"
-          alt=""
-          src="./Assets/images/Who-2.png"
-        />
-      </div>
-      <div class="process-with-kanban">
-        <h2 class="iterative-incremental-method">
-          Iterative Incremental Method
-        </h2>
-        <div class="iterative-incremental-developm">
-          Iterative Incremental development is a process of collation of
-          software development processes using Waterfall and various Agile
-          development frameworks. Here the requirements and solutions
-          evolve through collaboration between self-organizing &
-          cross-functional teams.
-        </div>
-      </div>
-      <div class="process-with-kanban1">
-        <h2 class="kanban">Kanban</h2>
-        <div class="kanban-is-a">
-          Kanban is a visual system for managing software development work
-          as it moves through the development process. The Kanban Method
-          provides a great set of principles for visualizing the work,
-          delivering products and IT services continuously and getting
-          clients feedback more often. This helps maintain greater speed.
-        </div>
-      </div>
+    <div class="fixed-price-model-frame-m">
+      <div class="mitesh-1" >
+        <img class="header-icon2" loading="eager" alt="" src="./Assets/images/Who-1.png"/>
+      </div>  
+        <div class="mitesh">
+        <div class="product-development">
+            <div class="process-with-kanban1">
+            <h2 class="kanban">Iterative Incremental Method</h2>
+            </div>
+            <div class="header-with-time">
+                <div class="kanban-is-a">
+                  Iterative Incremental development is a process of collation of
+                  software development processes using Waterfall and various Agile
+                  development frameworks. Here the requirements and solutions
+                  evolve through collaboration between self-organizing &
+                  cross-functional teams.
+                </div>
+            </div>   
+        </div> 
+        <div class="product-development">
+            <div class="chunked-product-dev">
+            <h2 class="product-development1">Kanban</h2>
+            </div>
+            <div class="header-with-time">
+                <div class="we-built-product">
+                    Kanban is a visual system for managing software development work
+                    as it moves through the development process. The Kanban Method
+                    provides a great set of principles for visualizing the work,
+                    delivering products and IT services continuously and getting
+                    clients feedback more often. This helps maintain greater speed.
+                </div>
+            </div>   
+        </div> 
     </div>
-  </div>
+    </div>
+    <div class="header-with-time">
+        <div class="frame-with-label">
+          <img class="clip-path-group2" alt="" src="./Assets/images/clip-path-group.svg"/>
+        </div>
 </section>
+
+
 <!-- End Add Content here  -->
               
 <?php include 'footer.php';?>

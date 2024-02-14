@@ -196,7 +196,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: var(--gap-xl);
+  gap: 50px;
   max-width: 100%;
 }
 .dedicated-team-frame,
@@ -210,7 +210,7 @@
 }
 .dedicated-team-frame {
   align-self: stretch;
-  gap: var(--gap-60xl);
+  gap: 50px;
 }
 .second-frame {
   /* width: 50%; */
@@ -256,6 +256,7 @@
   position: relative;
   font-weight: 300;
   z-index: 1;
+  text-align: justify;
 }
 .clip-path-group2 {
   position: absolute;
@@ -267,8 +268,6 @@
   width: 431.3px;
 }
 .header-icon2 {
-  position: absolute;
-  top: 75px;
   left: 213.8px;
   width: 529.5px;
   height: 529.5px;
@@ -280,9 +279,9 @@
   width: 744px;
   height: 712px;
   position: absolute;
-  margin: 0 !important;
-  bottom: -704px;
-  left: -214px;
+  margin-bottom: 707px;
+  margin-right: 577px;
+
 }
 .header-with-time,
 .product-development {
@@ -290,6 +289,14 @@
   flex-direction: column;
   align-items: center;
 }
+
+.techpm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
 .header-with-time {
   align-self: stretch;
   justify-content: center;
@@ -302,27 +309,27 @@
 .product-development {
   flex: 1;
   justify-content: flex-start;
-  padding: 0 67px 703px 214px;
+  padding: 0 76px 33px 255px;
   box-sizing: border-box;
   gap: var(--gap-base);
   min-width: 484px;
   max-width: 100%;
 }
-.header-icon3 {
-  height: 261.2px;
-  flex: 1;
+.header-icon3-m {
+  width: 435px;
+  height: 261px;
   position: relative;
   max-width: 100%;
   overflow: hidden;
   object-fit: cover;
 }
-.fixed-price-model-frame {
+.fixed-price-model-frame-m {
   align-self: stretch;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 var(--padding-12xs) 19px 0;
+ 
   box-sizing: border-box;
   max-width: 100%;
 }
@@ -343,7 +350,7 @@
   font-weight: 300;
   font-family: var(--font-poppins);
   color: var(--color-white);
-  text-align: left;
+  text-align: justify;
 }
 .process-with-kanban {
   align-self: stretch;
@@ -356,12 +363,12 @@
 }
 .kanban {
   margin: 0;
-  height: 39px;
   position: relative;
   font-size: inherit;
   font-weight: 500;
   font-family: inherit;
   display: inline-block;
+  text-wrap: nowrap;
 }
 .kanban-is-a {
   align-self: stretch;
@@ -370,7 +377,7 @@
   font-weight: 300;
   font-family: var(--font-poppins);
   color: var(--color-white);
-  text-align: left;
+  text-align: justify;
 }
 .process-with-kanban1 {
   align-self: stretch;
@@ -438,7 +445,7 @@
 }
 @media screen and (max-width: 1200px) {
   .dedicated-team-frame {
-    gap: var(--gap-60xl);
+    gap: 50px;
   }
   .iterative-incremental-dev {
     flex: 1;
@@ -483,17 +490,16 @@
 }
 @media screen and (max-width: 750px) {
   .dedicated-team-frame {
-    gap: var(--gap-60xl);
+    gap: 50px;
   }
   .second-frame {
     gap: var(--gap-35xl);
   }
   .product-development {
-    padding-left: 107px;
-    padding-right: 33px;
-    padding-bottom: 297px;
+    padding-left: var(--padding-xl);
     box-sizing: border-box;
-    min-width: 100%;
+        padding-right: 33px;
+    padding-bottom: 14px;
   }
   .iterative-incremental-dev {
     gap: var(--gap-22xl);
@@ -508,7 +514,34 @@
     padding-right: var(--padding-36xl);
     box-sizing: border-box;
   }
+  .frame-method1 {
+    margin-left: 0px;
+  }
+  .header-icon2 {
+    display: none;
+  }
+  .header-icon3-m {
+    display: none;
+  }
+  .asset {
+    height: 45%;
+  }
 }
+
+@media screen and (max-width: 850px) {
+  .asset {
+    height: 70%;
+  }
+
+
+@media screen and (max-width: 550px) {
+  .asset {
+    height: 30%;
+  }
+
+
+}
+
 @media screen and (max-width: 450px) {
   .hero-section-wrapper {
     padding-bottom: var(--padding-24xl);
@@ -533,6 +566,8 @@
   .product-development {
     padding-left: var(--padding-xl);
     box-sizing: border-box;
+        padding-right: 33px;
+    padding-bottom: 14px;
   }
   .iterative-incremental-method {
     font-size: var(--font-size-lgi);
@@ -554,4 +589,28 @@
     padding-right: var(--padding-xl);
     box-sizing: border-box;
   }
+
+  .header-icon2 {
+    display: none;
+  }
+  .header-icon3-m {
+    display: none;
+  }
+  .frame-method1 {
+    margin-left: 0px;
+    margin-top: 30px;
+  }
+  .frame-method {
+    margin-left: 0px;
+    margin-top: 30px;
+  }
+  .asset {
+    height: 25%;
+  }
+
+}
+
+.mitesh {
+  display: flex;
+  flex-direction: column;
 }
